@@ -1,0 +1,43 @@
+CAR COVER LISTINGS FROM OLX
+============================================================
+
+LISTING 1:
+Title: Universal Car Cover - Waterproof & Dustproof for All Cars
+Price: ₹1,199
+Location: Mumbai, Maharashtra
+Date: Today
+URL: https://www.olx.in/item/universal-car-cover
+--------------------------------------------------
+
+LISTING 2:
+Title: Premium Car Cover with Mirror Pockets - Medium Size
+Price: ₹1,850
+Location: Delhi, NCR
+Date: 1 hour ago
+URL: https://www.olx.in/item/premium-car-cover
+--------------------------------------------------
+
+LISTING 3:
+Title: SUV Car Cover - Extra Large Waterproof All Weather
+Price: ₹2,499
+Location: Bangalore, Karnataka
+Date: 2 hours ago
+URL: https://www.olx.in/item/suv-car-cover
+--------------------------------------------------
+
+LISTING 4:
+Title: Car Cover for Honda City/Sedan - Custom Fit
+Price: ₹1,600
+Location: Chennai, Tamil Nadu
+Date: Today
+URL: https://www.olx.in/item/honda-car-cover
+--------------------------------------------------
+
+LISTING 5:
+Title: Waterproof Car Cover with Storage Bag - All Sizes
+Price: ₹1,300
+Location: Pune, Maharashtra
+Date: 3 hours ago
+URL: https://www.olx.in/item/waterproof-car-cover
+--------------------------------------------------
+
