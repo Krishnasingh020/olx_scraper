@@ -15,7 +15,7 @@ A Python web scraper that extracts car cover listings from OLX India and saves t
 - `car_covers.csv` - Excel-compatible spreadsheet format
 - `car_covers.json` - Structured data for programming use
 - `car_covers.txt` - Human-readable text format
-- `detailed_olx_page.html` - Raw HTML for debugging (if needed)
+- `detailed_olx_page.html` - Raw HTML for debugging 
 
 ## Installation
 
